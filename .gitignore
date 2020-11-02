@@ -1,0 +1,8 @@
+cmake-build-debug/
+lib/
+Vocabulary/
+.idea/
+.vscode/
+Examples/
+doc/
+Documents/
